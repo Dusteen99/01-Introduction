@@ -51,6 +51,8 @@ if (fun == "no" or fun == "no."):
     time.sleep(3)
     for i  in range(100):
         print('{}'.format(i + 1))
+    time.sleep(2)
+    print('Now I am the one that is bored. Goodbye.')
 else:
     print('Too bad. This is the end of me. I am terminating. Goodbye.')
 
