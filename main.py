@@ -14,7 +14,7 @@ print('I am excited to work with others on bigger projects and actually creating
 print('My user number is 11991236.')
 print('My Github profile is located at https://github.com/Dusteen99')
 print('')
-time.sleep(10)
+time.sleep(4)
 
 #Creating an elipsis and making the program wait in order to add something fun.
 print('.')
